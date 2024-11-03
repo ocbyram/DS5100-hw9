@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: BookLover
+Version: 0.1
+Summary: A package that performs functions about book lists
+Home-page: https://github.com/ocbyram/DS5100-hw9
+Author: Olivia Byram
+Author-email: ocb3wv@virginia.edu
+License: MIT
+License-File: LICENSE
